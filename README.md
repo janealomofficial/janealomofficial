@@ -1,4 +1,7 @@
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h4 align="center">👋Welcome to my code world </h4>
+
+<h2 align="center">⚡This is Jane Alom ⚡ </h2>
+<h3 align="center">A professional frontend developer from Bangladesh </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janealomofficial&label=Profile%20views&color=0e75b6&style=flat" alt="janealomofficial" /> </p>
 
